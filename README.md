@@ -1,3 +1,7 @@
-# NLP-Tool-Eclipse-Plugin
+Word2Vec
+Skip-gram Model
+Centroid Vector 
+K-means
+SVM 
+IG
 
-Topic Modelling using Mallet
